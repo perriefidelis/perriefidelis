@@ -1,7 +1,7 @@
 # About Me 👩🏽‍🔬 👩🏽‍🎨 🥑
 I am a product designer who helps organisations & communities design, maintain & improve the quality of their products & overall experience, to match the needs of their target audience.
 
-As a designer with a background in science(Microbiology), I like to tackle my design problems like a scientist. I fully understand the importance of all aspects of design, with a balanced mindset that focuses on data, research and psychology. I believe the best experiences are created through a vivid understanding of the problem, continues iterations & experiments and guided by user feedback.
+As a designer with a background in science(Microbiology), I like to tackle my design problems like a scientist. I fully understand the importance of all aspects of design, with a balanced mindset that focuses on data, research and psychology. I believe the best experiences are created through a vivid understanding of the problem, continues iterations, experiments and guided by user feedback.
 
 I believe so much in the essence of community & collaboration. Hence, I have chosen to remain actively involved in strengthening communities around me, particularly in my areas of interests. I hold & reckon pertinently in the theory that, for every building, bricks & mortar are vital to the actualisation of the structure, which entails collaboration & contribution.
 
