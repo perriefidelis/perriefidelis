@@ -1,5 +1,5 @@
 # About Me 👩🏽‍🔬 👩🏽‍🎨 🥑
-I am a product designer who helps companies, communities & organisations design, maintain & improve the quality of their products & overall experience, to match the needs of their target audience.
+I am a product designer who helps organisations & communities design, maintain & improve the quality of their products & overall experience, to match the needs of their target audience.
 
 As a designer with a background in science(Microbiology), I like to tackle my design problems like a scientist. I fully understand the importance of all aspects of design and design with a balanced mindset that focuses on data, research and psychology. I believe the best experiences are created through a vivid understanding of the problem, continues iterations & experiments and guided by user feedback.
 
