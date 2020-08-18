@@ -16,5 +16,4 @@ I believe so much in the essence of community & collaboration. Hence, I have cho
 # Get in Touch 🌍 ⏱ 👍🏽
 - <a rel="Personal Website" href="https://peaceojemeh.com/">Personal Website<a/>
 - <a rel="Twitter" href="https://twitter.com/Peace_Ojemeh">Twitter<a/>
-- <a rel="Dribbble" href="https://dribbble.com/perriefidelis">Dribbble<a/>
 - <a rel="Linkedln" href="https://www.linkedin.com/in/peace-ojemeh-0b5bb2151/">Linkedln<a/>
