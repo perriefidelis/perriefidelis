@@ -11,8 +11,10 @@ I believe so much in the essence of community & collaboration. Hence, I have cho
 - Serving as a volunteer design/user experience contributor and Mentor for <a rel="GSoC" href="https://summerofcode.withgoogle.com">Google Summer Of Code</a> and <a rel="GCI" href="https://codein.withgoogle.com/archive/">GCI</a> at <a rel="Sugar Lab" href="https://github.com/sugarlabs">Sugar Labs</a>.
 - Working on scalable onboarding with the <a rel="Gnome" href="https://gitlab.gnome.org/Teams/Engagement/initiatives/scalable-onboarding">Gnome</a> team.
 - Discusing and creating ways to improve the OSS design structure at <a rel="Sustain OSS UX & Design working group" href="https://discourse.sustainoss.org/t/design-ux-working-group/348">Sustain OSS UX & Design working group<a/>
-- New web experience for <a rel="Back Your Stack" href="http://backyourstack.com/">Back Your Stack<a/>
+- New web experience for <a rel="Back Your Stack" href="http://backyourstack.com/">Back Your Stack<a/>. The product focuses on analyzing your open source project manifests and find all dependencies. We then empower you to curate a subscription plan and see the impact of your contribution.
 
 # Get in Touch 🌍 ⏱ 👍🏽
-- <a rel="Website" href="https://peaceojemeh.com/">Website<a/>
+- <a rel="Personal Website" href="https://peaceojemeh.com/">Personal Website<a/>
 - <a rel="Twitter" href="https://twitter.com/Peace_Ojemeh">Twitter<a/>
+- <a rel="Dribbble" href="https://dribbble.com/perriefidelis">Dribbble<a/>
+- <a rel="Linkedln" href="https://www.linkedin.com/in/peace-ojemeh-0b5bb2151/">Linkedln<a/>
