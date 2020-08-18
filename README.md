@@ -3,7 +3,7 @@ I am a product designer who helps companies, communities & organisations design,
 
 As a designer with a background in science(Microbiology), I like to tackle my design problems like a scientist. I fully understand the importance of all aspects of design and design with a balanced mindset that focuses on data, research and psychology. I believe the best experiences are created through a vivid understanding of the problem, continues iterations & experiments and guided by user feedback.
 
-I believe so much in the essence of community & collaboration. I holds & reckon pertinently in the theory that, for every building, bricks & mortar are vital to the actualization of the structure, which entails collaboration & contribution. Hence, she has chosen to remain actively involved in strengthening communities around her, particularly in my areas of interests.
+I believe so much in the essence of community & collaboration. I hold & reckon pertinently in the theory that, for every building, bricks & mortar are vital to the actualization of the structure, which entails collaboration & contribution. Hence, she has chosen to remain actively involved in strengthening communities around her, particularly in my areas of interests.
 
 # Current OSS engagements 👩🏽‍🎨 👷🏽‍♀️ 👩🏽‍💻
 - Building a diverse community & Leading the design team at <a rel="Open Source Community Africa" href="https://twitter.com/oscafrica">Open Source Community Africa</a>, a movement that promotes and educates everything open source within Africa. See a recap of our first <a rel="Open Source Festival" href="https://blog.oscafrica.org/the-chronicles-of-open-source-festival-2020-ck84qc32s04zmzns18q5x8fjp">Open Source festival</a>
