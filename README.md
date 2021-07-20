@@ -1,9 +1,5 @@
 # About Me 👩🏽‍🔬 👩🏽‍🎨 🥑
-I am a product designer living in Nigeria 🇳🇬. I help organisations & communities design, maintain & improve the quality of their products, to match the needs of their target audience.
-
-As a designer with a background in science(Microbiology), I like to tackle my design problems like a scientist. I fully understand the importance of all aspect of design and create experiences with a balanced mindset that focuses on data, research and psychology. I believe the best experiences are created through a vivid understanding of the problem, continues iterations, experiments and guided by user feedback.
-
-I am currently consulting with the African Union, the International Telecommunication Union, and UN Women to bring more women into technology. Also, building a diverse community and leading the design team at Open Source Community Africa, a movement that promotes and educates everything open source within Africa.
+I am a designer living in Nigeria 🇳🇬, with years of industry experience of helping organisations & communities design, build and maintain the quality of their products & grow design teams.
 
 I believe so much in the essence of community & collaboration. Hence, I have chosen to remain actively involved in strengthening communities around me, particularly in my areas of interests. I hold & reckon pertinently in the theory that, for every building, bricks & mortar are vital to the actualisation of the structure, which entails collaboration & contribution.
 
