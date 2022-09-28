@@ -15,5 +15,5 @@ In the past years, I have helped to build, maintain and grow some amazing commun
 
 # Get in Touch 🌍 ⏱ 👍🏽
 - <a rel="Personal Website" href="https://bit.ly/perrieee">Personal Website<a/>
-- <a rel="Twitter" href="https://twitter.com/Peace_Ojemeh">Twitter<a/>
+- <a rel="Twitter" href="https://twitter.com/perriefidelis">Twitter<a/>
 - <a rel="Linkedln" href="https://www.linkedin.com/in/peace-ojemeh-0b5bb2151/">Linkedln<a/>
