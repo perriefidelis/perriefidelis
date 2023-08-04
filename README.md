@@ -14,6 +14,5 @@ In the past years, I have helped to build, maintain and grow some amazing commun
 - New web experience for <a rel="Back Your Stack" href="http://backyourstack.com/">Back Your Stack<a/>. The product focuses on analyzing your open source project manifests and find all dependencies. We then empower you to curate a subscription plan and see the impact of your contribution.
 
 # Get in Touch 🌍 ⏱ 👍🏽
-- <a rel="Personal Website" href="https://bit.ly/perrieee">Personal Website<a/>
-- <a rel="Twitter" href="https://twitter.com/Peace_Ojemeh">Twitter<a/>
+- <a rel="Twitter" href="https://twitter.com/youfoundperrie">Twitter<a/>
 - <a rel="Linkedln" href="https://www.linkedin.com/in/peace-ojemeh-0b5bb2151/">Linkedln<a/>
